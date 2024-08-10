@@ -38,17 +38,17 @@ The NFT Showcase Platform allows users to browse and view NFTs minted on the Sol
 
 ### Prerequisites
 
-- Node.js (version X.X.X)
+- Node.js (version 18.18.0)
 - npm or yarn
-- Python (version X.X.X)
+- Python (version 3.10.0)
 - FastAPI and Uvicorn
 - Solana CLI (for blockchain interaction)
 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/arnon3339/nft-showcase-platform.git
-cd nft-showcase-platform
+git clone https://github.com/arnon3339/sol-monkey-free.git
+cd sol-monkey-free
 ```
 
 ### Install Dependencies
