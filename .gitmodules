@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/arnon3339/sol-backend-free.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/arnon3339/sol-frontend-free.git
+[submodule "metaread"]
+	path = metaread
+	url = https://github.com/arnon3339/sol-metaread-free.git
