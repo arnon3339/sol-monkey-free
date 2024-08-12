@@ -10,7 +10,6 @@ This project is a full-stack application designed to showcase NFTs, with a front
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -49,6 +48,13 @@ The NFT Showcase Platform allows users to browse and view NFTs minted on the Sol
 ```bash
 git clone https://github.com/arnon3339/sol-monkey-free.git
 cd sol-monkey-free
+```
+
+### Initialize the submodule 
+If you haven't already initialized the submodule after cloning:
+
+```bash
+git submodule update --init --recursive
 ```
 
 ### Install Dependencies
@@ -108,7 +114,3 @@ Once the application is running, navigate to `http://localhost:3000` in your bro
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the [choose your license]. See the [LICENSE](LICENSE) file for more details.
